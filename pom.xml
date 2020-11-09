@@ -62,6 +62,29 @@
 			<artifactId>spring-restdocs-mockmvc</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+
+		<!--spring boot 快速启动依赖-->
+		<!-- https://mvnrepository.com/artifact/org.activiti/activiti-spring-boot-starter-basic -->
+<!--		<dependency>-->
+<!--			<groupId>org.activiti</groupId>-->
+<!--			<artifactId>activiti-spring-boot-starter-basic</artifactId>-->
+<!--			<version>6.0.0.RC1</version>-->
+<!--		</dependency>-->
+<!--		&lt;!&ndash;自动部署布局依赖&ndash;&gt;-->
+<!--		<dependency>-->
+<!--			<groupId>org.activiti</groupId>-->
+<!--			<artifactId>activiti-bpmn-layout</artifactId>-->
+<!--			<version>6.0.0.RC1</version>-->
+<!--		</dependency>-->
+
+
+
+
+
+
+
+
 	</dependencies>
 
 	<build>
