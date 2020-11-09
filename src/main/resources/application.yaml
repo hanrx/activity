@@ -7,20 +7,20 @@ spring:
     username: activiti
     password: activiti
     driver-class-name: com.mysql.cj.jdbc.Driver
-#  security:
-#    user:
-#      name: user
-#      password: 1
-#      roles: admin
+  security:
+    user:
+      name: user
+      password: 1
+      roles: admin
 
 #mybatis:
 #  mapperLocations: classpath:mapper/*Mapper.xml
-#  activiti:
-#    check-process-definitions: false # activti是否自动部署
-#    db-identity-used: false #是否使用activti自带的用户体系
-#    database-schema-update: true #是否每次都更新数据库
-#    process-definition-location-prefix: classpath:/processes/
-#    history-level: full #full最高级别
+  activiti:
+    check-process-definitions: false # activti是否自动部署
+    db-identity-used: false #是否使用activti自带的用户体系
+    database-schema-update: true #是否每次都更新数据库
+    process-definition-location-prefix: classpath:/processes/
+    history-level: full #full最高级别
 
 #  security:
 #    basic:
