@@ -11,7 +11,10 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.annotation.Resource;
 
 /**
- * @author Created by yawn on 2018-01-11 10:02
+ * @Copyright: iAfoot.
+ * @Description:
+ * @author: RX.HAN
+ * @since: 2020/11/11 11:07 AM
  */
 @RestController
 public class UserController {

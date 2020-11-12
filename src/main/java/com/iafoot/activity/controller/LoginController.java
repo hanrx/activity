@@ -13,7 +13,10 @@ import javax.annotation.Resource;
 import javax.servlet.http.HttpSession;
 
 /**
- * @author Created by yawn on 2018-01-08 13:39
+ * @Copyright: iAfoot.
+ * @Description:
+ * @author: RX.HAN
+ * @since: 2020/11/11 11:07 AM
  */
 @Controller
 public class LoginController {

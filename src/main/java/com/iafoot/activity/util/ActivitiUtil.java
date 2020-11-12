@@ -7,7 +7,10 @@ import java.util.List;
 
 /**
  * activiti中使用得到的工具方法
- * @author Created by yawn on 2018-01-10 16:32
+ * @Copyright: iAfoot.
+ * @Description:
+ * @author: RX.HAN
+ * @since: 2020/11/11 11:07 AM
  */
 public class ActivitiUtil {
 
