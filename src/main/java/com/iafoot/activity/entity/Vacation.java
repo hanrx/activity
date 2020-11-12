@@ -3,7 +3,10 @@ package com.iafoot.activity.entity;
 import java.util.Date;
 
 /**
- * @author Created by yawn on 2018-01-08 16:44
+ * @Copyright: iAfoot.
+ * @Description:
+ * @author: RX.HAN
+ * @since: 2020/11/11 11:07 AM
  */
 public class Vacation {
 

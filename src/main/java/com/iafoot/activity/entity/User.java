@@ -1,7 +1,10 @@
 package com.iafoot.activity.entity;
 
 /**
- * @author Created by yawn on 2018-01-08 16:43
+ * @Copyright: iAfoot.
+ * @Description:
+ * @author: RX.HAN
+ * @since: 2020/11/11 11:07 AM
  */
 public class User {
 
